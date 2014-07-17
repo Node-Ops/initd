@@ -1,0 +1,21 @@
+{
+  "name": "initd",
+  "version": "0.1.0",
+  "description": "Run init scripts on Debian systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "init.d",
+    "debian",
+    "ubuntu",
+    "service"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Node-Ops/initd.git"
+  },
+  "author": "Wes Todd",
+  "license": "ISC"
+}
